@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Kalyan Babu
 
-<!--
-**Ykalyanbabu/ykalyanbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## UI/UX Designer | Front-End Developer
 
-Here are some ideas to get you started:
+I have 8+ years of experience designing and developing responsive websites, dashboards, and enterprise web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- React
+- Angular
+- Tailwind CSS
+- Figma
+- Adobe XD
+
+## Current Focus
+
+- UI/UX Design
+- React Development
+- Dashboard Design
+- Government Portal UI
+- Design Systems
+
+## Portfolio
+
+🌐 Website:
+https://www.kalyantejahub.in
+
+## Connect
+
+LinkedIn:
+[https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/kalyanbabuykb/)
+
+Email:
+yourmail@gmail.com
